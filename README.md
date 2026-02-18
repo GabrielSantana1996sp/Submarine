@@ -1,6 +1,6 @@
 ---
 
-# 🌊 Submarine Sonar Simulator – *“Eyes in the Depths”*
+#  Submarine Sonar Simulator – *“Eyes in the Depths”*
 
 A sonar interface simulation inspired by the tension of the **Cuban Missile Crisis**, where underwater detection was crucial.  
 This project recreates a **minimalist yet functional sonar system** using **Java Swing**, paying tribute to ingenuity under pressure and the pursuit of vital information.
@@ -19,7 +19,7 @@ This project recreates a **minimalist yet functional sonar system** using **Java
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Submarine/
 │── src/
